@@ -1,4 +1,4 @@
-package socketJavaTp2Thread;
+package ThreadSocketManagerJava;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -9,7 +9,7 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
-import socketJavaTp2Thread.Operation;
+import ThreadSocketManager-Java.Operation;
 
 public class Client {
 
