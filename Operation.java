@@ -1,4 +1,4 @@
-package socketJavaTp2Thread;
+package ThreadSocketManagerJava;
 
 import java.io.Serializable;
 
